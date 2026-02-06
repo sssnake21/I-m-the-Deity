@@ -1,0 +1,12 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+       "[+67]% growth [in all cities] <for [Human player] Civilizations> <starting from the [Ancient era]>",
+       "Discover [Pottery] <for [Human player] Civilizations> <upon entering the [Ancient era]>",
+       "Discover [Animal Husbandry] <for [Human player] Civilizations> <upon entering the [Ancient era]>",
+       "Discover [Mining] <for [Human player] Civilizations> <upon entering the [Ancient era]>",
+       "Discover [The Wheel] <for [Human player] Civilizations> <upon entering the [Ancient era]>",
+       "[-50]% maintenance costs <for [Military] units> <for [Human player] Civilizations>",
+       "[-50]% maintenance cost for [all] buildings [in all cities] <for [Human player] Civilizations>"
+    ]
+}
